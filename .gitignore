@@ -5,3 +5,6 @@
 *.DS_Store*.ipynb
 __pycache__/
 .DS_Store
+*.json
+*.jpg
+*.jsonl
