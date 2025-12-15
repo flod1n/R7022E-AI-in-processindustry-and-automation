@@ -10,3 +10,4 @@ __pycache__/
 *.jsonl
 *.pkl
 *.pth
+Lab3_supervised/best_model.pth
