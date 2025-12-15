@@ -8,8 +8,4 @@ __pycache__/
 *.json
 *.jpg
 *.jsonl
-<<<<<<< HEAD
 *.pkl
-=======
-*.zip
->>>>>>> 77489fdc09b20f9ced3a0c2785cf531c0fb6a866
