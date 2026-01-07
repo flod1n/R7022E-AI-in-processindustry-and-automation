@@ -11,3 +11,12 @@ __pycache__/
 *.pkl
 *.pth
 Lab3_supervised/best_model.pth
+/.venv
+.idea
+data
+models
+policies/
+PCGym_Lab_Solution.ipynb
+logs/
+build/
+*.npy
